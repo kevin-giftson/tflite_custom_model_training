@@ -67,9 +67,11 @@ The training script performs:
 - Evaluation and saving of the trained model.
 
   tflite_custom_model_training/
+```bash
 ├── train.py              # Training script for the object detection model
 ├── tflite_custom_model   # jupyter source file
 ├── picam_detect          # detection file for raspi cam
 ├── detect                # detection file for normal cam
 ├── README.md             # Documentation file
 └── ...                   # Other related scripts or files
+```
