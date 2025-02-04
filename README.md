@@ -18,7 +18,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/repository-name.git  
+git clone [https://github.com/your-username/repository-name.git  ](https://github.com/kevin-giftson/tflite_custom_model_training.git)
 cd repository-name  
 Install Miniconda:
 
