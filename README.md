@@ -18,6 +18,7 @@ To clone this repository, use the following command:
 ```bash
 git clone https://github.com/kevin-giftson/tflite_custom_model_training.git
 cd tflite_custom_model_training
+```
 
 ## **Requirements**
 - Python 3.9
